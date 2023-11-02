@@ -1,0 +1,20 @@
+.section-summary {
+  height: 100vh;
+  background-color: black;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.summary {
+  width: 120rem;
+  height: 60rem;
+
+  padding: 4rem;
+
+  border: 0.1rem solid #FFFFFF;
+
+  display: flex;
+  justify-content: space-between;
+}
